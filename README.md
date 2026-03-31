@@ -8,14 +8,13 @@ The system uses the MovieLens dataset from kaggle and applies a content-based fi
 
 1. Install Required Libraries
 
-   Open terminal and run:
+   Open terminal and run :
 
    pip install pandas matplotlib seaborn statsmodels
 
 2. Prepare Dataset
 
    Ensure the following files are present inside the Datasets folder:
-   Datasets/
    
     ├── rating.csv
   
